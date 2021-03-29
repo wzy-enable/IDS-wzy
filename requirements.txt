@@ -145,7 +145,7 @@ pydot-ng==1.0.0
 pydotplus==2.0.2
 pyflakes==1.6.0
 pygame==1.9.4
-Pygments==2.2.0
+Pygments==2.7.4
 PyInstaller==3.3.1
 pylint==1.8.4
 PyMySQL==0.9.2
